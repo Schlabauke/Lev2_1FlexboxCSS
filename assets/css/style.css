@@ -1,0 +1,10 @@
+article {
+    border: 2px solid rgb(54, 53, 53);
+}
+
+figure {
+    width: 90vw;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2%
+}
